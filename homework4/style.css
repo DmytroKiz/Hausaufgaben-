@@ -1,0 +1,281 @@
+body {
+
+position: relative;
+width: 1440px;
+height: 1480px;
+
+}
+
+.header {
+position: absolute;
+width: 1440px;
+height: 500px;
+left: 0px;
+top: 0px;
+background: #ED4C5C;
+display: flex;
+}
+
+.title1 {
+position: absolute;
+width: 445px;
+height: 107px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 43px;
+color: #FFFFFF;
+margin: 122px 165px;
+}
+
+.text1 {
+width: 445px;
+height: 64px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+text-align: justify;
+color: #FFFFFF;
+margin-left: 165px;
+margin-top: 253px;
+
+}
+.icons {
+width: 134px;
+height: 32px;
+margin-top: 50px;
+margin-left: 163px;
+justify-content: space-between;
+}
+
+.foto{
+position: relative;
+width: 533px;
+height: 311px;
+box-sizing: border-box;
+border-radius: 15px;
+margin-right: 100px;
+
+}
+
+.foto1 {
+position: absolute;
+width: 383px;
+height: 267px;
+top: 116px;
+left: 160px;
+background: url(.jpg), #C4C4C4;
+opacity: 0.5;
+border-radius: 15px
+}
+
+.foto2 {
+position: absolute;
+width: 445px;
+height: 311px;
+top: 94px;
+left: 200px;
+background: url(.jpg), #C4C4C4;
+border-radius: 15px;
+}
+
+.foto3 {
+position: absolute;
+width: 383px;
+height: 267px;
+top: 116px;
+left: 300px;
+background: url(.jpg), #C4C4C4;
+opacity: 0.5;
+border-radius: 15px;
+}
+
+.main {
+    display: flex;
+    height: 500px;
+    width: 1440px;
+    margin: 0px 0px 45px 0px;
+    background-color: #FFFFFF
+ }
+
+ .textleft {
+   width: 445px;
+   height: 160px;
+   margin: 117px 20px 276px 176px;
+   font-family: 'Lato';
+   font-style: normal;
+   color: #000000;
+ }
+
+ .htxt {
+   font-weight: 600;
+   font-size: 36px;
+   line-height: 43px;
+   text-align: left;
+   margin: 0px 0px 0px 0px;
+ }
+
+ .textp {
+   width: 434px;
+   height: 64px;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 20px;
+   margin: 59px 11px 0px 0px;
+   text-align: justify
+ }
+
+.form {
+    width: 540px;
+   height: 305px;
+   margin: 117px 165px 78px 170px;
+   font-family: 'Lato';
+   font-style: normal;
+}
+input {
+padding-left: 5px;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px
+}
+
+.firstname {
+    width: 255px;
+   height: 60px;
+   margin: 0px 25px 24px 0px;
+   border-radius: 6px;
+   box-sizing: border-box;
+   border: 1px solid #333333;
+   color: rgba(19, 39, 67, 0.5);
+}
+
+.lastname {
+     box-sizing: border-box;
+   border: 1px solid #333333;
+   color: rgba(19, 39, 67, 0.5);
+    margin: 0px 0px 0px 0px;
+    border-radius: 6px;
+   width: 255px;
+   height: 60px
+
+ 
+}
+
+.phonnumer {
+     box-sizing: border-box;
+   border: 1px solid #333333;
+   color: rgba(19, 39, 67, 0.5);
+  border-radius: 6px;
+    width: 540px;
+   height: 60px
+;
+   
+}
+.servis {
+     box-sizing: border-box;
+   border: 1px solid #333333;
+   color: rgba(19, 39, 67, 0.5);
+  border-radius: 6px;
+  margin: 24px 0px 0px 0px;
+   width: 540px;
+   height: 60px
+  
+}
+.Submitnow {
+ 
+  margin: 24px 0px 0px 0px;
+  width: 160px;
+  height: 50px;
+  background: #ED4C5C;
+  border-radius: 6px;
+  border: none;
+  color: #FFFFFF;
+
+}
+.Bg {
+width: 1440px;
+height: 435px;
+background: #FAFAFA;
+display: flex;
+}
+
+.block1 {
+width: 259px;
+height: 264px;
+margin: 85px 30px 86px 161px;
+}
+
+.Adress {
+position: absolute;
+width: 65px;
+height: 22px;
+margin: 0px 0px 33px 5px;
+size: 18px;
+font-weight: 700;
+}
+
+.Strasse {
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+margin: 33px 33px 33px 0px;
+}
+
+.block2 {
+  margin: 85px 30px 186px 30px;
+  width: 254px;
+  height: 164px
+}
+
+.Services {
+font-weight: 700;
+font-size: 18px;
+}
+
+.text2 {
+  font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 160%
+}
+
+.block3 {
+width: 122px;
+height: 128px;
+margin: 85px 175px 222px 30px;
+}
+.GetinTouch {
+size: 18px;
+font-weight: 700;
+
+}
+.email {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+}
+.numer {
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+}
+.block4 {
+  width: 90px;
+height: 230px;
+margin: 85px 150px 300px 30px;
+}
+
+.WeSupport {
+size: 18px;
+font-weight: 700;
+}
