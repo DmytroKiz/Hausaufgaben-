@@ -1,0 +1,42 @@
+
+  table, th,td {
+    width: 900px;
+    border: 1px solid rgb(131, 130, 130);
+    border-collapse: collapse;
+    color: rgb(161, 161, 161);
+    
+  
+  
+  } 
+  th, td {
+    background-color: #343333;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    
+   
+  }
+  th {
+    text-align: left;
+    color: rgb(247, 250, 253);
+    text-size-adjust: 8px;
+  }
+  
+  .image {
+    width: 49px;
+    height: 48px
+  }
+
+
+
+ input[type="search"] {
+  height: 20px;
+  width: 90%;
+  font-size: 14px;
+  background-position: left center;
+  color: aliceblue;
+  border-radius: 5px;
+  color: rgb(191, 191, 191);
+  border: 1px solid rgb(235, 235, 235);
+  background-color: #585858;
+}
