@@ -1,20 +1,29 @@
 
-  table, th,td {
+ th,td {
     width: 900px;
     border: 1px solid rgb(131, 130, 130);
     border-collapse: collapse;
     color: rgb(161, 161, 161);
-    
-  
-  
+    border-radius: 6px;
   } 
+
+  table {
+    width: 900px;
+    border: 1px solid rgb(131, 130, 130);
+    border-collapse: collapse;
+    color: rgb(161, 161, 161);
+    border-radius: 6px;
+  }
+
   th, td {
     background-color: #343333;
     padding-top: 8px;
     padding-bottom: 8px;
     padding-left: 8px;
-    
-   
+  }
+
+  .td {
+    border-style: none;
   }
   th {
     text-align: left;
@@ -30,7 +39,7 @@
 
 
  input[type="search"] {
-  height: 20px;
+  height: 18px;
   width: 90%;
   font-size: 14px;
   background-position: left center;
@@ -39,4 +48,8 @@
   color: rgb(191, 191, 191);
   border: 1px solid rgb(235, 235, 235);
   background-color: #585858;
+}
+
+.border-radius {
+  border-radius: 10px;
 }
