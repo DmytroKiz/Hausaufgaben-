@@ -84,7 +84,7 @@ overflow-x:  0px;
 .img1 {
     height: 16px;
     width: 16px;
-    margin-top: 18px;
+    margin: 18px 8px 18px 0px;
     flex: none;
     order: 0;
     flex-grow: 0;
@@ -93,7 +93,7 @@ overflow-x:  0px;
 .img2 {
     height: 16px;
     width: 16px;
-    margin-top: 18px;
+    margin: 18px 0px 18px 8px;
     flex: none;
     order: 0;
     flex-grow: 0;
@@ -291,6 +291,7 @@ color: #FFFFFF;
     line-height: 16px;
     text-align: center;
     color: #FFFFFF;
+    border: none
 }
 
 .cookieBaner6 {
