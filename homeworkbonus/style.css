@@ -1,0 +1,1055 @@
+.frame1 {
+    transform: rotate(0.27deg);
+position: relative;
+width: 1600px;
+height: 1200px;
+background:radial-gradient(121% 121% at 32% 100%, #9799A0 0%, #2C2C2D 100%)
+
+}
+.home {
+    position: absolute;
+    margin:179.03px 179.03px 182.7px 218.84px;
+}
+
+.image {
+position: absolute;
+width: 390px;
+height: 844px;
+background: url(.jpg), linear-gradient(167.95deg, #2E335A 0%, #1C1B33 100%);
+box-shadow: -40px 60px 150px rgba(11, 10, 10, 0.7);
+border-radius: 46px;
+transform: rotate(0.27deg);
+
+}
+
+.statusbar {
+    position: absolute;
+    width: 390px;
+    height: 844px;
+    margin: 24px 1px 0px 3.76px;
+    transform: rotate(0.27deg);
+    display: flex;
+    
+}
+
+.leftside {
+position: absolute;
+width: 54px;
+height: 21px;
+margin: 18.13px 309.08px 0px 30.81px;
+transform: rotate(0.27deg);
+
+}
+.clock {
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+text-align: center;
+letter-spacing: -0.408px;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+}
+
+.rightside {
+    position: absolute;
+width: 77.4px;
+height: 21px;
+margin: 38.35px 26.71px 0px 289.82px;
+
+}
+.fill {
+    background: #FFFFFF;
+    border-radius: 2px;
+    transform: rotate(0.27deg);
+    position: absolute;
+    box-sizing: border-box;
+}
+
+.mobilesignal {
+    background: #FFFFFF;
+    border-radius: 2px;
+    transform: rotate(0.27deg);
+    position: absolute;
+    box-sizing: border-box;
+}
+
+.Wether {
+position: absolute;
+width: 390px;
+height: 183px;
+top: 103px;
+transform: rotate(0.27deg);
+word-wrap: break-word;
+margin: auto;
+
+}
+.Wetherr {
+    margin-top: -7px;
+    margin-left: 32%;
+    color: #FFFFFF;
+    font-size: 38px;
+    font-family: 'SF Pro Display';
+font-style: normal;
+letter-spacing: 0.7px;
+    
+   
+}
+.warm {
+    margin-top: -50px;
+    margin-left: 35%;
+    color: #FFFFFF;
+    font-size: 96px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+}
+
+.MostlClear {
+    margin-top: -100px;
+    margin-left: 35%;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+}
+.HL {
+        margin-top: -20px;
+    margin-left: 35%;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+}
+
+.rectangle {
+    position: absolute;
+    width: 391px;
+    height: 479px;
+    top: 344px;
+    background: linear-gradient(180deg, rgba(58, 63, 84, 0) 0%, #3A3F54 100%);
+    transform: rotate(0.27deg);
+    border-radius: 46px;
+    margin-left: -4px;
+
+}
+.modallast {
+position: absolute;
+width: 390px;
+height: 325px;
+background: linear-gradient(135.73deg, rgba(46, 51, 90, 0.2) 11.01%, rgba(28, 27, 51, 0.2) 95.06%);
+box-shadow: inset 0px 1px 0px #FFFFFF;
+backdrop-filter: blur(25px);
+border-radius:44px 44px 44px 44px;
+transform: rotate(0.27deg);
+margin-top: 498px;
+margin-left: -4px;
+
+}
+.header {
+    position: absolute;
+    width: 391px;
+    height: 49px;
+    transform: rotate(0.27deg);
+    border-radius: 44px 44px 0px 0px;
+    background: linear-gradient(135.73deg, rgba(46, 51, 90, 0.2) 11.01%, rgba(28, 27, 51, 0.2) 95.06%);
+    box-shadow: inset 0px 1px 0px #FFFFFF;
+    backdrop-filter: blur(25px);
+}
+.headerleft {
+    position: absolute;
+    margin: 11.06px 255.08px 267.21px 14.26px;
+
+}
+.forecast {
+   
+    transform: rotate(0.27deg);
+    color: #898fa2;
+}
+.headerright {
+       position: absolute;
+    margin: 11.06px 14px 267.21px 237.26px;
+}
+
+.weeklyy {
+    transform: rotate(0.27deg);
+    color: #898fa2;
+    margin-left: 32px;
+}
+
+.indikator {
+    margin: 8.81px 170.04px 312.8px 172.48px;
+    background-color: #1A1C24;
+    color: #1A1C24;
+    position: absolute;
+    width: 49px;
+    height: 5px;
+    border-radius: 10px;
+   
+}
+
+.frame {
+display: flex;
+flex-direction: row;
+width: 420px;
+height: 146px;
+align-items: flex-start;
+margin: 68.09px 49.68px 110.76px 20.53px;
+transform: rotate(0.27deg);
+overflow:visible
+
+
+
+}
+.hour1 {
+  box-sizing: border-box;
+width: 60px;
+height: 146px;
+border-radius: 30px;
+transform: rotate(0.27deg);
+background: rgba(19, 21, 28, 0.2);
+border: 1px solid rgba(255, 255, 255, 0.2);  
+background: rgba(19, 21, 28, 0.2);
+}
+
+.am {
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-size: 15px;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+margin: 22.04px 8px 90px 9px;
+}
+.wetter1 {
+    position: absolute;
+margin: 45px 14.25px 62.07px 14.29px;
+background: url(Image.png);
+transform: rotate(0.27deg);
+Width:32px;
+height: 32px;
+
+
+}
+.procent {
+    position: absolute;
+width: 30px;
+height: 41px;
+color: #23BCB3;
+font-family: 'Inter';
+font-style: normal;
+font-size: 13px;
+margin: 82.07px 15.34px 33.07px 18.16px;
+}
+
+.grad {
+    position: absolute;
+width: 25px;
+height: 41px;
+font-size: 15px;
+line-height: 41px;
+text-align: center;
+letter-spacing: 0.374px;
+transform: rotate(0.27deg);
+color: aliceblue;
+margin: 100px 17.50px 5px 18px;
+}
+
+
+.hour2 {
+  box-sizing: border-box;
+width: 60px;
+height: 146px;
+border-radius: 30px;
+transform: rotate(0.27deg);
+background: rgba(0, 0, 0, 0.855);
+border: 1px solid rgba(255, 255, 255, 0.2);  
+margin-left: 11.20px;
+}
+
+.am2 {
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-size: 15px;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+margin: 22.04px 8px 90px 11px;
+}
+.wetter2 {
+    position: absolute;
+margin: 60px 14.25px 62.07px 14.29px;
+background: url(Image.png);
+transform: rotate(0.27deg);
+Width:32px;
+height: 32px;
+}
+
+
+.grad2 {
+    position: absolute;
+width: 25px;
+height: 41px;
+font-size: 15px;
+line-height: 41px;
+text-align: center;
+letter-spacing: 0.374px;
+transform: rotate(0.27deg);
+color: aliceblue;
+margin: 100px 17.50px 5px 18px;
+}
+
+.hour3 {
+  box-sizing: border-box;
+width: 60px;
+height: 146px;
+border-radius: 30px;
+transform: rotate(0.27deg);
+background: rgba(19, 21, 28, 0.2);
+border: 1px solid rgba(255, 255, 255, 0.2);  
+background: rgba(19, 21, 28, 0.2);
+margin-left: 11.20px;
+}
+.am3 {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 15px;
+    color: #FFFFFF;
+    transform: rotate(0.27deg);
+    margin: 22.04px 8px 90px 9px;
+    }
+    .wetter3 {
+        position: absolute;
+    margin: 45px 14.25px 62.07px 14.29px;
+    background: url(Image.png);
+    transform: rotate(0.27deg);
+    Width:32px;
+    height: 32px;
+    
+    
+    }
+    .procent3 {
+        position: absolute;
+    width: 30px;
+    height: 41px;
+    color: #23BCB3;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 13px;
+    margin: 82.07px 15.34px 33.07px 18.16px;
+    }
+    
+    .grad3 {
+        position: absolute;
+    width: 25px;
+    height: 41px;
+    font-size: 15px;
+    line-height: 41px;
+    text-align: center;
+    letter-spacing: 0.374px;
+    transform: rotate(0.27deg);
+    color: aliceblue;
+    margin: 100px 17.50px 5px 18px;
+    }
+
+    .hour4 {
+  box-sizing: border-box;
+width: 60px;
+height: 146px;
+border-radius: 30px;
+transform: rotate(0.27deg);
+background: rgba(19, 21, 28, 0.2);
+border: 1px solid rgba(255, 255, 255, 0.2);  
+background: rgba(19, 21, 28, 0.2);
+margin-left: 11.20px;
+}
+.am4 {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 15px;
+    color: #FFFFFF;
+    transform: rotate(0.27deg);
+    margin: 22.04px 8px 90px 9px;
+    }
+    .wetter4 {
+        position: absolute;
+    margin: 45px 14.25px 62.07px 14.29px;
+    background: url(Image.png);
+    transform: rotate(0.27deg);
+    Width:32px;
+    height: 32px;
+    
+    
+    }
+    .procent4 {
+        position: absolute;
+    width: 30px;
+    height: 41px;
+    color: #23BCB3;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 13px;
+    margin: 82.07px 15.34px 33.07px 18.16px;
+    }
+    
+    .grad4 {
+        position: absolute;
+    width: 25px;
+    height: 41px;
+    font-size: 15px;
+    line-height: 41px;
+    text-align: center;
+    letter-spacing: 0.374px;
+    transform: rotate(0.27deg);
+    color: aliceblue;
+    margin: 100px 17.50px 5px 18px;
+    }
+
+    .hour5 {
+  box-sizing: border-box;
+width: 60px;
+height: 146px;
+border-radius: 30px;
+transform: rotate(0.27deg);
+background: rgba(19, 21, 28, 0.2);
+border: 1px solid rgba(255, 255, 255, 0.2);  
+background: rgba(19, 21, 28, 0.2);
+margin-left: 11.20px;
+}
+.am5 {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 15px;
+    color: #FFFFFF;
+    transform: rotate(0.27deg);
+    margin: 22.04px 8px 90px 9px;
+    }
+    .wetter5 {
+        position: absolute;
+    margin: 45px 14.25px 62.07px 14.29px;
+    background: url(Image.png);
+    transform: rotate(0.27deg);
+    Width:32px;
+    height: 32px;
+    
+    
+    }
+    .procent5 {
+        position: absolute;
+    width: 30px;
+    height: 41px;
+    color: #23BCB3;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 13px;
+    margin: 82.07px 15.34px 33.07px 18.16px;
+    }
+    
+    .grad5 {
+        position: absolute;
+    width: 25px;
+    height: 41px;
+    font-size: 15px;
+    line-height: 41px;
+    text-align: center;
+    letter-spacing: 0.374px;
+    transform: rotate(0.27deg);
+    color: aliceblue;
+    margin: 100px 17.50px 5px 18px;
+    }
+
+        .hour6 {
+  box-sizing: border-box;
+width: 60px;
+height: 146px;
+border-radius: 30px;
+transform: rotate(0.27deg);
+background: rgba(19, 21, 28, 0.2);
+border: 1px solid rgba(255, 255, 255, 0.2);  
+background: rgba(19, 21, 28, 0.2);
+margin-left: 11.20px;
+overflow: hidden;
+}
+.am6 {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 15px;
+    color: #FFFFFF;
+    transform: rotate(0.27deg);
+    margin: 22.04px 8px 90px 9px;
+    }
+    .wetter6 {
+        position: absolute;
+    margin: 45px 14.25px 62.07px 14.29px;
+    background: url(Image.png);
+    transform: rotate(0.27deg);
+    Width:32px;
+    height: 32px;
+    
+    
+    }
+    .procent6 {
+        position: absolute;
+    width: 30px;
+    height: 41px;
+    color: #23BCB3;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 13px;
+    margin: 82.07px 15.34px 33.07px 18.16px;
+    }
+    
+    .grad6 {
+        position: absolute;
+    width: 25px;
+    height: 41px;
+    font-size: 15px;
+    line-height: 41px;
+    text-align: center;
+    letter-spacing: 0.374px;
+    transform: rotate(0.27deg);
+    color: aliceblue;
+    margin: 100px 17.50px 5px 18px;
+    }
+
+    .frame5 {
+position: absolute;
+width: 390px;
+height: 88px;
+background: linear-gradient(180deg, rgba(58, 58, 106, 0.26) 0%, rgba(37, 36, 76, 0) 100%);
+border: 1.5px solid rgba(68, 71, 81, 0.5);
+backdrop-filter: blur(25px);
+transform: rotate(0.27deg);
+margin: -90px -2px -2px -2px;
+border-radius: 0px 0px 46px 46px;
+
+
+    }
+    .elips {
+        position: absolute;
+width: 390px;
+height: 88px;
+background: linear-gradient(180deg, rgba(58, 58, 106, 0.26) 0%, rgba(37, 36, 76, 0) 100%);
+border: 1.5px solid rgba(68, 71, 81, 0.5);
+backdrop-filter: blur(25px);
+transform: rotate(0.27deg);
+border-radius: 0px 0px 46px 46px;
+margin-left: -1px;
+margin-top: 0px;
+    }
+    .navleft {
+        position: absolute;
+        height: 44px;
+        margin: 22.13px 318.1px 23.51px 28.1px;
+        Width: 44px;
+        letter-spacing: 0.0231818px;
+        display: flex;
+      
+        
+    }
+    .sim {
+        font-family: 'SF Pro Text';
+font-style: normal;
+font-size: 17px;
+line-height: 20px;
+display: flex;
+letter-spacing: 0.0231818px;
+color: #ffffff;
+transform: rotate(0.27deg);
+    }
+ .navreight {
+    position: absolute;
+    height: 44px;
+    margin: 23.51px 28.1px 22.51px 318.1px;
+    Width: 44px;
+    letter-spacing: 0.0231818px;
+    display: flex;
+ }
+
+ .simmm {
+    font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.0231818px;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+ }
+
+ .Reckta {
+position: absolute;
+width: 258px;
+height: 100.26px;
+margin: -3px 67.09px 5.95px 65.97px;
+opacity: 0.5;
+opacity: 0.5;
+transform: rotate(0.27deg);
+
+ }
+ .pluss {
+    position: absolute;
+width: 64px;
+height: 64px;
+margin: -77px 100.98px 18px 104.08px;
+border-radius: 50%;
+border: none;
+ }
+
+ .elips1 {
+    position: absolute;
+width: 58px;
+height: 58px;
+left: 109.49px;
+top: 21.01px;
+border-radius: 50%;
+background: linear-gradient(138.22deg, rgba(255, 255, 255, 0) 16.11%, #cbcccf 85.86%);
+filter: blur(1px);
+transform: rotate(0.27deg)
+
+ }
+
+ .elips2 {
+position: absolute;
+width: 58px;
+height: 58px;
+left: 109.49px;
+top: 21.01px;
+background: linear-gradient(138.22deg, #F5F5F9 28.11%, rgba(218, 223, 231, 0.839) 85.86%);
+transform: rotate(0.27deg);
+border-radius: 50%;
+ }
+ .elips3 {
+box-sizing: border-box;
+position: absolute;
+width: 58px;
+height: 58px;
+left: 107.49px;
+top: 21.01px;
+border-radius: 50%;
+background: linear-gradient(138.22deg, #F5F5F9 29.11%, rgba(218, 223, 231, 0.831) 85.86%);
+box-shadow: -10px -10px 20px rgba(255, 255, 255, 0.813), 10px 10px 20px rgba(13, 20, 49, 0.5), inset 1px 1px 0.5px #FFFFFF;
+transform: rotate(0.27deg);
+ }
+ .elips4 {
+    position: absolute;
+width: 64px;
+height: 64px;
+left: 0.3px;
+top: 0px;
+left: 105.49px;
+top: 18.01px;
+background: linear-gradient(138.22deg, rgba(0, 0, 0, 0.4) 25.11%, rgba(255, 255, 255, 0.754) 85.86%);
+filter: blur(0.5px);
+transform: rotate(0.27deg);
+border-radius: 50%;
+ }
+
+ .pl {
+  
+    color: #000000;
+
+   margin-top: 8px;
+   margin-left: 7.3px
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.secondscrean {
+
+margin: 182.4px 280.84px 179.32px 800px;
+position: absolute;
+width: 390px;
+height: 844px;
+background: linear-gradient(168.32deg, #1A1C24 1.9%, #57586A 98.29%);
+box-shadow: -40px 60px 150px rgba(11, 10, 10, 0.7);
+border-radius: 46px;
+transform: rotate(0.27deg);
+overflow: hidden;
+}
+
+.navigacia {
+    position: absolute;
+    height: 47px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+
+.timee {
+    margin: -40.13px 309.07px -30px 31px;
+}
+
+.timeformat {
+    position: absolute;
+    width: 54px;
+    height: 20px;
+    font-size: 17px;
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    text-align: center;
+    color: #FFFFFF;
+    transform: rotate(0.27deg);
+}
+
+.rightside {
+    width: 77.4px;
+    height: 13px;
+    transform: rotate(0.27deg);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    
+    
+    
+}
+.icon{
+    width: 18px;
+    height: 12px;
+}
+
+.sstadt {
+    position: absolute;
+width: 129px;
+height: 41px;
+margin: 76px 131px 728px 133px;
+overflow: hidden;
+
+}
+
+.citty {
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+margin-top: 7px;
+}
+
+.infoweather {
+position: absolute;
+width: 38px;
+height: 41px;
+margin-left: 101px;
+margin-top: 122px;
+
+}
+.graduss2 {
+    font-family: 'Inter';
+font-style: normal;
+font-size: 23px;
+line-height: 41px;
+letter-spacing: 0.374px;
+text-align: center;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+margin-top: 7px;
+}
+.line11 {
+    position: absolute;
+width: 23px;
+height: 0px;
+border: 1px solid #FFFFFF;
+transform: rotate(90.27deg);
+margin-top: 147px;
+margin-left: 134px;
+
+}
+
+.Mostlycle2 {
+position: absolute;
+width: 116px;
+height: 24px;
+margin-top: 130px;
+margin-left: 160px;
+
+
+}
+.mostly22 {
+    font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.38px;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+margin-top: 7px;
+
+}
+.rechtagle1 {
+position: absolute;
+width: 390px;
+height: 670px;
+background: linear-gradient(180deg, rgba(58, 63, 84, 0) 0%, #3A3F54 100%);
+transform: rotate(0.27deg);
+margin: 177px 0.84px 3px 0.01px;
+border-radius: 46px;
+
+overflow: hidden;
+}
+
+.wetherwidget {
+width: 342px;
+height: 184px;
+transform: rotate(0.27deg);
+flex: none;
+margin: 14.13px 21px 0px 29px;
+}
+.iconbord {
+    margin-top: 7px;
+}
+
+
+.iconbox {
+width: 160px;
+height: 160px;
+margin-top: -190px;
+margin-left: 182px;
+
+}
+.iconwether {
+    margin-top: -13px;
+}
+.Gradys {
+    position: absolute;
+width: 95px;
+height: 41px;
+margin: -180px 227px 86px 20px;
+
+}
+
+.graddd {
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 41px;
+letter-spacing: 0.374px;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+}
+
+.weterincity {
+    position: absolute;
+width: 136px;
+height: 41px;
+margin-top: -50px;
+margin-left: 27px;
+
+}
+
+.weterincity2 {
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 18px;
+letter-spacing: -0.078px;
+color: rgba(235, 235, 245, 0.6);
+transform: rotate(0.27deg);
+}
+
+.rainn {
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 18px;
+text-align: right;
+letter-spacing: -0.078px;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+margin-top: -15px;
+margin-right: 20px;
+}
+
+
+.rechtagle2 {
+position: absolute;
+width: 390px;
+height: 670px;
+background: linear-gradient(180deg, rgba(58, 63, 84, 0) 0%, #3A3F54 100%);
+transform: rotate(0.27deg);
+margin: 19px 0.84px 3px 0.01px;
+border-radius: 46px;
+
+overflow: hidden;
+}
+
+.wetherwidget {
+width: 342px;
+height: 184px;
+transform: rotate(0.27deg);
+flex: none;
+margin: 14.13px 21px 0px 29px;
+}
+.iconbord {
+    margin-top: 7px;
+}
+
+
+.iconbox {
+width: 160px;
+height: 160px;
+margin-top: -190px;
+margin-left: 182px;
+
+}
+.iconwether {
+    margin-top: -13px;
+}
+.Gradys {
+    position: absolute;
+width: 95px;
+height: 41px;
+margin: -180px 227px 86px 20px;
+
+}
+
+.graddd2 {
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 41px;
+letter-spacing: 0.374px;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+}
+
+.weterincity {
+    position: absolute;
+width: 136px;
+height: 41px;
+margin-top: -50px;
+margin-left: 27px;
+
+}
+
+.weterincity22 {
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 18px;
+letter-spacing: -0.078px;
+color: rgba(235, 235, 245, 0.6);
+transform: rotate(0.27deg);
+}
+
+.rainn2 {
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 18px;
+text-align: right;
+letter-spacing: -0.078px;
+color: #FFFFFF;
+transform: rotate(0.27deg);
+margin-top: -15px;
+margin-right: 20px;
+}
+
+
+
+.wetherwidget {
+    width: 342px;
+    height: 184px;
+    transform: rotate(0.27deg);
+    flex: none;
+    margin: 14.13px 21px 0px 29px;
+    }
+    .iconbord {
+        margin-top: 7px;
+    }
+    
+    
+    .iconbox {
+    width: 160px;
+    height: 160px;
+    margin-top: -190px;
+    margin-left: 182px;
+    
+    }
+    .iconwether {
+        margin-top: -13px;
+    }
+    .Gradys {
+        position: absolute;
+    width: 95px;
+    height: 41px;
+    margin: -180px 227px 86px 20px;
+    
+    }
+    
+    .graddd23 {
+        font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 41px;
+    letter-spacing: 0.374px;
+    color: #FFFFFF;
+    transform: rotate(0.27deg);
+    }
+    
+    .weterincity {
+        position: absolute;
+    width: 136px;
+    height: 41px;
+    margin-top: -50px;
+    margin-left: 27px;
+    
+    }
+    
+    .weterincity223 {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: -0.078px;
+    color: rgba(235, 235, 245, 0.6);
+    transform: rotate(0.27deg);
+    }
+    
+    .rainn3 {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: right;
+    letter-spacing: -0.078px;
+    color: #FFFFFF;
+    transform: rotate(0.27deg);
+    margin-top: -15px;
+    margin-right: 20px;
+    }
