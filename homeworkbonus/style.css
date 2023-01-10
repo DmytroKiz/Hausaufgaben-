@@ -9,6 +9,8 @@ background:radial-gradient(121% 121% at 32% 100%, #9799A0 0%, #2C2C2D 100%)
 .home {
     position: absolute;
     margin:179.03px 179.03px 182.7px 218.84px;
+   
+
 }
 
 .image {
@@ -29,6 +31,7 @@ transform: rotate(0.27deg);
     margin: 24px 1px 0px 3.76px;
     transform: rotate(0.27deg);
     display: flex;
+   
     
 }
 
@@ -38,6 +41,12 @@ width: 54px;
 height: 21px;
 margin: 18.13px 309.08px 0px 30.81px;
 transform: rotate(0.27deg);
+
+}
+
+.qwer {
+    width: 18px;
+    height: 12px;
 
 }
 .clock {
@@ -53,26 +62,11 @@ transform: rotate(0.27deg);
 
 .rightside {
     position: absolute;
-width: 77.4px;
-height: 21px;
-margin: 38.35px 26.71px 0px 289.82px;
-
-}
-.fill {
-    background: #FFFFFF;
-    border-radius: 2px;
-    transform: rotate(0.27deg);
-    position: absolute;
-    box-sizing: border-box;
+    width: 77.04px;
+    height: 21px;
+    margin: 38.35px 26.71px 0px 289.82px;
 }
 
-.mobilesignal {
-    background: #FFFFFF;
-    border-radius: 2px;
-    transform: rotate(0.27deg);
-    position: absolute;
-    box-sizing: border-box;
-}
 
 .Wether {
 position: absolute;
@@ -82,6 +76,7 @@ top: 103px;
 transform: rotate(0.27deg);
 word-wrap: break-word;
 margin: auto;
+overflow: hidden;
 
 }
 .Wetherr {
@@ -196,6 +191,7 @@ align-items: flex-start;
 margin: 68.09px 49.68px 110.76px 20.53px;
 transform: rotate(0.27deg);
 overflow:visible
+
 
 
 
