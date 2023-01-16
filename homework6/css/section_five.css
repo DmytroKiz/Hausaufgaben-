@@ -1,0 +1,342 @@
+.gorizontal_line {
+position: absolute;
+width: 1600px;
+height: 2px;
+left: 0px;
+top: 3648px;
+background: #9C69E2;
+opacity: 0.4;
+}
+
+.section_five {
+    position: absolute;
+width: 1600px;
+height: 761px;
+left: 0px;
+top: 3648px;
+
+}
+
+.title5 {
+    position: absolute;
+width: 584px;
+height: 101px;
+left: 240px;
+top: 80px;
+
+}
+
+.tittle5h {
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 130%;
+display: flex;
+align-items: center;
+color: #212353;
+}
+
+.tittle5p {
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 160%;
+color: #4B5D68;
+}
+
+.btns {
+    position: absolute;
+width: 410px;
+height: 60px;
+left: 947px;
+top: 100px;
+display: flex;
+}
+
+.lernmo5 {
+    position: absolute;
+width: 170px;
+height: 60px;
+background: #F063B8;
+border-radius: 50px;
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 160%;
+display: flex;
+text-align: center;
+color: #FFFFFF;
+border: none;
+
+}
+
+.demo5 {
+
+width: 210px;
+height: 60px;
+margin-left: 50%;
+position: absolute;
+background: #FFFFFF;
+box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+border-radius: 50px;
+border: none;
+}
+
+.demo5p {
+    margin-right: 42%;
+    margin-top: 6.5%;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+    color: #212353;
+}
+
+
+
+.footersek5 {
+
+width: 1117px;
+height: 408px;
+left: 240px;
+top: 6001px;
+display: flex;
+
+
+}
+.logo5 {
+
+width: 49px;
+height: 35px;
+left: 240px;
+top: 4001px;
+}
+
+.foot5 {
+position: absolute;
+width: 1117px;
+height: 408px;
+left: 240px;
+top: 330px;
+
+display: flex;
+
+}
+
+
+.imgg5 {
+width: 350px;
+height: 400px;
+margin-left: 1%;
+display: flex;
+
+}
+
+.img55 {
+    display: flex;
+width: 49px;
+height: 35px;
+margin-top: 1%;
+}
+
+
+.about5 {
+
+width: 166px;
+height: 250px;
+margin-left: 9%;
+display: flex;
+
+}
+.help5 {
+width: 166px;
+height: 250px;
+margin-left: 9%;
+display: flex;
+;
+}
+
+.media5 {
+
+width: 178px;
+height: 110px;
+margin-left: 5%;
+display: flex;
+
+}
+.Social_Media5 {
+position: absolute;
+width: 170px;
+height: 30px;
+
+
+}
+
+.socmedh {
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 900;
+font-size: 16px;
+line-height: 160%;
+color: #212353;
+margin-left: 2%;
+}
+
+
+.li a{
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 250%;
+color: #212353;
+}
+
+.h5{
+ position: absolute;
+width: 51.75px;
+height: 30px;
+margin-left: 4%;
+}
+
+.pagagraf {
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 250%;
+color: #212353;
+text-decoration: none;
+}
+
+.h5h {
+    position: absolute;
+    width: 51.75px;
+    height: 30px;
+    margin-left: 4%;
+    
+}
+
+.paragraf2 {
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 250%;
+color: #212353;
+
+}
+.socmed {
+    margin-top: 32%;
+}
+
+.writeUs {
+    position: absolute;
+width: 60px;
+height: 60px;
+
+margin-top: 50%;
+opacity: 0.2
+
+}
+
+.adress {
+    font-family: 'Avenir';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 180%;
+letter-spacing: 0.01em;
+color: #212353;
+margin-right: 40%;
+}
+.email {
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180%;
+letter-spacing: 0.01em;
+color: #212353;
+}
+
+.img65 {
+    display: flex;
+}
+
+.adres5 {
+    position: absolute;
+width: 335px;
+height: 65px;
+margin-left: 2%;
+
+margin-top: 5%;
+}
+
+.email5 {
+position: absolute;
+width: 335px;
+height: 60px;
+margin-left: 2%;
+margin-top: 14%;
+}
+
+.adress{
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 180%;
+letter-spacing: 0.01em;
+color: #212353;
+
+}
+
+.email {
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 180%;
+letter-spacing: 0.01em;
+color: #212353;
+}
+
+.DataWarehouse {
+    margin-left: 3%;
+    font-family: 'Avenir';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+color: #212353;
+}
+
+.Datawarehouse {
+position: absolute;
+width: 360px;
+height: 50px;
+margin-top: 29%;
+}
+.datawp {
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 180%;
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+color: #212353;
+}
+
+.img553 {
+    margin-top: -20%;
+
+}

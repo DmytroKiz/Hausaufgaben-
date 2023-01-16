@@ -1,0 +1,132 @@
+.section_four {
+    position: absolute;
+width: 1118px;
+height: 709px;
+left: 242px;
+top: 2789px;
+background: #9C69E2;
+border-radius: 50px;
+}
+
+.section_four443 {
+    position: absolute;
+width: 949px;
+height: 330px;
+left: 7%;
+top: 37%;
+background-color: #FFFFFF;
+box-shadow: 0px 20px 0px rgba(156, 105, 226, 0.3);
+border-radius: 20px;
+}
+
+.slider-custom {
+    position: absolute;
+    width: 743.02px;
+    height: 220px;
+    left: 11%;
+    top: 21%;
+ 
+    }
+
+.slick-dots {
+    position: absolute;
+    bottom: -80px;
+    right: 630px;
+    width: 300px;
+}
+
+
+
+.testimonita {
+position: absolute;
+width: 405px;
+height: 52px;
+display: flex;
+margin-top: 10%;
+margin-left: 7%;
+}
+.test52 {
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 130%;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+
+
+.actionsboton {
+    display: flex;
+margin-top: 55%;
+margin-left: 70%;
+}
+.imgslider1 {
+
+
+display: flex;
+}
+.img34 {
+  width: 132.42px;
+height: 90px;
+display: flex;
+  
+}
+.Nameslider{
+width: 250.12px;
+height: 51px;
+margin-left: 20%;
+margin-top: -10%;
+}
+.textjohn2 {
+    font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 180%;
+color: #4B5D68;
+margin-left: 20%;
+}
+.john {
+    font-family: 'Avenir';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 160%;
+display: flex;
+align-items: center;
+letter-spacing: 0.005em;
+color: #212353;
+}
+
+.link5 {
+    font-family: 'Avenir';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 160%;
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+color: #9C69E2;
+margin-top: -6%;
+}
+
+.img3421 {
+      width: 132.42px;
+height: 90px;
+display: flex;
+border-radius: 35%;
+}
+.edmund {
+    font-family: 'Avenir';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 160%;
+display: flex;
+align-items: center;
+letter-spacing: 0.005em;
+color: #212353;
+}
