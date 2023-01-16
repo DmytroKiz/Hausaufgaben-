@@ -64,7 +64,7 @@ transform: rotate(0.27deg);
     position: absolute;
     width: 77.04px;
     height: 21px;
-    margin: 38.35px 26.71px 0px 289.82px;
+    margin: 32.35px 26.71px 0px 289.82px;
 }
 
 
@@ -138,6 +138,8 @@ border-radius:44px 44px 44px 44px;
 transform: rotate(0.27deg);
 margin-top: 498px;
 margin-left: -4px;
+overflow: hidden;
+
 
 }
 .header {
@@ -149,6 +151,8 @@ margin-left: -4px;
     background: linear-gradient(135.73deg, rgba(46, 51, 90, 0.2) 11.01%, rgba(28, 27, 51, 0.2) 95.06%);
     box-shadow: inset 0px 1px 0px #FFFFFF;
     backdrop-filter: blur(25px);
+    overflow: hidden;
+
 }
 .headerleft {
     position: absolute;
@@ -190,7 +194,7 @@ height: 146px;
 align-items: flex-start;
 margin: 68.09px 49.68px 110.76px 20.53px;
 transform: rotate(0.27deg);
-overflow:visible
+overflow: hidden;
 
 
 
