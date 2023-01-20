@@ -1,0 +1,283 @@
+.main {
+position: absolute;
+width: 1110px;
+height: 313px;
+left: 165px;
+top: 1281px;
+background: #FFFFFF;
+border-radius: 16px;
+display: flex;
+}
+
+.louis_viton {
+    height: 313px;
+    width: 207px;
+    position: absolute;
+}
+.img_viton {
+
+margin-top: 57px;
+margin-left: 39px;
+
+}
+.name_viton {
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+color: #000000;
+margin-top: 40px;
+margin-left: 54px;
+}
+
+.dolce_gabana {
+    height: 313px;
+    width: 207px;
+    position: absolute;
+    margin-left: 285px;
+}
+.img_gabana {
+
+margin-top: 51px;
+margin-left: 49px;
+
+}
+.name_gabana {
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+color: #000000;
+margin-top: 34px;
+margin-left: 54px;
+}
+
+
+.gucci {
+    height: 313px;
+    width: 207px;
+    position: absolute;
+    margin-left: 570px;
+}
+.img_gucci {
+
+margin-top: 74px;
+margin-left: 49px;
+
+}
+.name_gucci_tex {
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+color: #000000;
+margin-top: 40px;
+margin-left: 61px;
+}
+
+.Dries_van_Noten {
+    height: 313px;
+    width: 207px;
+    position: absolute;
+    margin-left: 855px;
+}
+.img_Dries {
+
+margin-top: 54px;
+margin-left: 49px;
+
+}
+.name_Dries {
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 30px;
+color: #000000;
+margin-top: 37px;
+margin-left: 54px;
+}
+
+.you_may_like {
+    position: absolute;
+width: 274px;
+height: 67px;
+left: 165px;
+top: 1664px;
+}
+.C {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 67px;
+   color: #1B2437;
+    margin-top: auto;
+    
+}
+
+.home {
+
+position: absolute;
+width: 1150px;
+height: 1100px;
+left: 165px;
+top: 1766px;
+display: flex;
+}
+.sommer {
+    display: grid;
+    grid-template-columns: repeat(3,350px) ;
+    grid-template-rows: repeat(2,487px) ;
+    gap: 10px;
+ 
+}
+
+.style1{
+    width: 350px;
+    height: 487px;
+    margin-left: 20px;
+    background: #FFFFFF;
+box-shadow: 2px 5px 45px rgba(237, 163, 181, 0.25);
+border-radius: 16px;
+
+}
+.logo {
+    margin-left: 290px;
+    margin-top: -250px;
+}
+
+
+
+
+
+.header_your_style {
+margin-top: 210px;
+margin-left: 24px;
+}
+.header_your_dress {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 30px;
+color: #000000;
+}
+
+.p_you_style {
+margin-top: 8px;
+margin-left: 24px;
+}
+.p_your_dress {
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+color: #000000;
+}
+.prise_button {
+      display: flex;
+    justify-content: space-around;
+}
+
+.price {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 30px;
+color: #000000;
+}
+.button_klik_me {
+    width: 153px;
+height: 58px;
+background: #EDA3B5;
+border-radius: 15px;
+margin-top: 14px;
+color: #FFFFFF;
+border: none;
+}
+
+.contakt_dress {
+position: absolute;
+width: 194px;
+height: 67px;
+left: 165px;
+top: 2775px;
+}
+
+.C_dr {
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 67px;
+color: #1B2437;
+}
+
+.daine_colection {
+    position: absolute;
+width: 1116px;
+height: 458px;
+margin-left: 00px;
+margin-top: 720px;
+
+display: grid;
+}
+
+.colektion_gid_b {
+    display: grid;
+    grid-template-columns: 445px 303px 302px;
+    grid-template-rows: 1fr 1fr;
+    gap: 30px;
+    height: 458px;
+    margin: 70px 150px 30px 163px;
+  
+}
+.colektion_1 {
+    width: 445px;
+    height: 458px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    margin-right: 2px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+}
+.colektion_2 {
+    width: 303px;
+    height: 225px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+    display: flex;
+}
+
+.colektion_3 {
+
+    border-radius: 16px;
+    border-radius: 16px;
+}
+.colektion_4 {
+    grid-column-start: 2;
+    grid-column-end: 4;
+    height:204px;
+    border-radius: 16px;
+}
+
+
+.p_text {
+    background-color: #EDA3B5;
+}
+
+.p_colektion {
+  font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+color: #1B2437;
+}
+
