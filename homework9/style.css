@@ -1,0 +1,152 @@
+body {
+    background-color: cadetblue;
+}
+.header {
+    box-sizing: border-box;
+
+position: absolute;
+width: 1440px;
+height: 665px;
+left: 20px;
+top: 20px;
+
+background: #F4F6F9;
+}
+.header_text {
+    position: absolute;
+    width: 546px;
+    height: 96px;
+    left: 163px;
+    top: 190px;
+}
+
+.p_tex {
+    position: absolute;
+width: 453px;
+height: 52px;
+left: 163px;
+top: 320px;
+}
+
+
+.image98 {
+    position: absolute;
+width: 760px;
+height: 665px;
+left: 47.2%;
+top: 0px;
+}
+
+.app_store {
+    position: absolute;
+width: 156.05px;
+height: 47px;
+left: 163px;
+top: 454px;
+background-color: rgb(0, 0, 0);
+border-radius: 7.33503px;
+border: none;
+}
+.google_app {
+    position: absolute;
+width: 156.05px;
+height: 47px;
+left: 354.95px;
+top: 454px;
+background: #000000;
+border-radius: 7.33503px;
+}
+
+.logo_futbol_header {
+    position: absolute;
+width: 99px;
+height: 32px;
+left: 163px;
+top: 61px;
+}
+
+
+.tex_button1 {
+    position: relative;
+    width: 93.78px;
+    height: 37.97px;
+    left: 38%;
+    top: 0%;
+
+}
+
+.logo_app_tex {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+display: flex;
+align-items: flex-end;
+color: #FFFFFF;
+margin-top: auto;
+
+}
+.h_logo_tex {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 21.2716px;
+line-height: 25px;
+display: flex;
+align-items: flex-end;
+color: #FFFFFF;
+margin-top: -10%;
+}
+
+.logo_apple {
+    position: absolute;
+width: 25.09px;
+height: 30.78px;
+left: 8%;
+top: 15%;
+
+}
+
+.tex_button2 {
+    position: relative;
+    width: 93.78px;
+    height: 37.97px;
+    left: 38%;
+    top: 0%;
+
+}
+.h_logo_tex2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 15px;
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+    margin-top: auto;
+}
+
+.hed_text_1 {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+display: flex;
+align-items: flex-end;
+letter-spacing: 0.03em;
+color: #333333;
+
+}
+
+.p_class_tex {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #4F4F4F;
+
+}

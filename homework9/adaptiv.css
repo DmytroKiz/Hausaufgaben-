@@ -1,0 +1,57 @@
+@media screen and (max-width:360px) {
+    .header {
+        height: 1440px; 
+        background-color: rgb(189, 218, 244);
+    }
+.image98 {
+    display: none;
+}
+
+.logo_futbol_header {
+position: absolute;
+width: 99px;
+height: 32px;
+margin-left: 35%;
+display: flex;
+
+}
+.header_text {
+    position: absolute;
+width: 320px;
+height: 119px;
+margin-left: 20px;
+top: 150px;
+}
+.hed_text_1 {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 40px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+letter-spacing: 0.03em;
+color: #333333;
+}
+
+.p_tex {
+    position: absolute;
+    width: 320px;
+    height: 70px;
+    left: 20px;
+    top: 302px;
+    
+}
+.p_class_tex {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+text-align: center;
+color: #4F4F4F;
+}
+
+}
+
