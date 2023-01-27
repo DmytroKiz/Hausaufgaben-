@@ -1,27 +1,33 @@
 @media screen and (max-width:360px) {
     .header {
-        height: 1440px; 
-        background-color: rgb(189, 218, 244);
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width:  360px;
+        padding: 5% 5% 25% 5%;
+        background-color: rgb(187, 235, 140);
+        height: 525px;
     }
-.image98 {
-    display: none;
-}
 
-.logo_futbol_header {
-position: absolute;
+
+
+    .logo_futbol_header {
+        position: absolute;
 width: 99px;
 height: 32px;
-margin-left: 35%;
+left: 131px;
+top: 32px;
 display: flex;
-
-}
-.header_text {
-    position: absolute;
+    }
+    .header_text {
+        position: absolute;
 width: 320px;
 height: 119px;
-margin-left: 20px;
+left: 20px;
 top: 150px;
-}
+display: flex;
+    }
 .hed_text_1 {
     font-family: 'Lato';
 font-style: normal;
@@ -34,24 +40,185 @@ text-align: center;
 letter-spacing: 0.03em;
 color: #333333;
 }
-
 .p_tex {
     position: absolute;
-    width: 320px;
-    height: 70px;
-    left: 20px;
-    top: 302px;
-    
+width: 320px;
+height: 70px;
+left: 20px;
+top: 302px;
+display: flex;
 }
 .p_class_tex {
     font-family: 'Lato';
 font-style: normal;
-font-weight: 400;
+font-weight: 700;
 font-size: 16px;
 line-height: 23px;
 text-align: center;
 color: #4F4F4F;
 }
 
+.image98 {
+    display: none;
 }
 
+.app_store {
+    position: absolute;
+width: 145.69px;
+height: 44px;
+left: 20px;
+top: 422px;
+display: flex;
+}
+
+.google_app {
+    position: absolute;
+width: 145.69px;
+height: 44px;
+left: 194.31px;
+top: 422px;
+display: flex;
+}
+
+.tex_main {
+position: absolute;
+width: 320px;
+height: 208px;
+left: 20px;
+top: 722px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+text-align: center;
+color: #4F4F4F;
+display: flex;
+}
+
+
+.andere_scrin_2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width:  360px;
+    padding: 5% 5% 25% 5%;
+    background-color: rgb(187, 235, 140);
+    height: 525px;
+}
+
+.section_2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width:  360px;
+    padding: 5% 5% 25% 5%;
+    background-color: rgb(187, 235, 140);
+    height: 525px;
+}
+
+
+.arsenal {
+    display: none;
+}
+.video_pos {
+    display: none;
+}
+.ronaldo {
+display: none;}
+
+.section2_tex {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+color: #4F4F4F;
+
+}
+.section_3 {
+    width: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    justify-content: center;
+    height: 525px;
+    max-width:  360px;
+}
+
+.article3 {
+    position: absolute;
+    width: 320px;
+    height: 208px;
+    left: 2px;
+    top: -120px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: start;
+}
+.oval_1 {
+    position: absolute;
+    width: 1137px;
+    height: 565px;
+    top: 300px;
+    right: 10px;
+    
+ 
+}
+
+
+.section3_h2 {
+    position: absolute;
+width: 297px;
+height: 37px;
+left: 10px;
+top: -230px;
+font-family: 'Lato';
+font-style: normal;
+font-size: 28px;
+color: #333333;
+display: flex;
+}
+
+.section3_h3 {
+    position: absolute;
+width: 320px;
+height: 22px;
+left: 90px;
+top: -230px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+color: #00ADEE;
+display: flex;
+}
+
+.href_section3 {
+    position: absolute;
+width: 320px;
+height: 22px;
+left: 2px;
+top: 200px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+color: #00ADEE;
+
+}
+
+
+
+}
