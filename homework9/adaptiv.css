@@ -221,4 +221,98 @@ color: #00ADEE;
 
 
 
+
+
+
+.section_4 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width:  360px;
+    width: 360px;
+    height: 1775px;
+    background-color: rgb(187, 235, 140);
+  
+    
+}
+.tex_header {
+    position: absolute;
+width: 318px;
+height: 74px;
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 37px;
+text-align: center;
+color: #333333;
+right: 5%;
+}
+.section_grid4 {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(9, 1fr);
+    gap: 10px;
+    margin-bottom: 0%;
+    padding-bottom: 10%;
+    top: 5%;
+}
+.word9 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.image_div_grid4 {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 0px;
+}
+
+.section_6 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width:  360px;
+    width: 360px;
+    height: 360px;
+    background-color: rgb(187, 235, 140);
+    top: 90%;
+    
+}
+
+.h_section6 {
+    position: absolute;
+width: 320px;
+height: 37px;
+display: flex;
+
+}
+.sport_image_club{
+    display: flex;
+    gap: 5%;
+    width: 80%;
+    row-gap: 10%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 5%;
+    align-items: center;
+    background-color: none;
+}
+
+.sport_image_club img{
+    height: 20%;
+    margin-bottom: 5%;
+    width: 102px;
+height: 32px;
+gap: 15%;
+    gap: 10%;
+    flex-wrap: wrap;
+}
+
+
+
+
 }
